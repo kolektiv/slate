@@ -1,3 +1,7 @@
+# Sprockets
+
+activate :sprockets
+
 # Markdown
 set :markdown_engine, :redcarpet
 set :markdown,
